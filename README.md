@@ -20,7 +20,7 @@ Urška Sršen, cofounder and Chief Creative Officer of *Bellabeat, believes that
 
 The dataset I used from [fitbit_fitness_tracker](https://www.kaggle.com/datasets/arashnic/fitbit).The 18 CSV files contains personal fitness tracker from thirty fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits.
 
-#[Project 3 : Netflix_Movies_And_Shows_Analysis](https://github.com/Rakshitha-Ramesh-96/Netflix_Movies_And_Shows_Analysis)
+# [Project 3 : Netflix_Movies_And_Shows_Analysis](https://github.com/Rakshitha-Ramesh-96/Netflix_Movies_And_Shows_Analysis)
 
 This project is done with the dataset from kaggle created to list all shows available on Netflix streaming, and analyze the data to find interesting facts. This data was acquired in July 2022 containing data available in the United States.
 
