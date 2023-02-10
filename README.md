@@ -19,3 +19,9 @@ Bellabeat is a high-tech manufacturer of health-focused products for women. Foun
 Urška Sršen, cofounder and Chief Creative Officer of *Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company.*
 
 The dataset I used from [fitbit_fitness_tracker](https://www.kaggle.com/datasets/arashnic/fitbit).The 18 CSV files contains personal fitness tracker from thirty fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits.
+
+#[Project 3 : Netflix_Movies_And_Shows_Analysis](https://github.com/Rakshitha-Ramesh-96/Netflix_Movies_And_Shows_Analysis)
+
+This project is done with the dataset from kaggle created to list all shows available on Netflix streaming, and analyze the data to find interesting facts. This data was acquired in July 2022 containing data available in the United States.
+
+The dataset I used contains 1 CSV File (titles) with +5k unique titles on Netflix with 15 columns containing their information. Exploratory data analysis to find interesting insights ,Developing a content-based recommender system using the genres and/or descriptions and Identifying the main content available on the streaming.
